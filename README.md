@@ -1,31 +1,53 @@
-🔐 Portfolio de Ciberseguridad – Juan Carlos Vico
+# 🔐 Portfolio de Ciberseguridad – Juan Carlos Vico
 
-¡Bienvenido/a a mi portfolio de proyectos y prácticas en el ámbito de la **Ciberseguridad**, **Forensia Digital** y **Respuesta ante Incidentes** (DFIR).
+¡Bienvenido/a a mi portfolio de proyectos y prácticas en el ámbito de la **Ciberseguridad**, la **Forensia Digital** y la **Respuesta ante Incidentes (DFIR)**.
 
-Este repositorio recopila prácticas, laboratorios y exámenes realizados en el marco de mi formación en ciberseguridad, análisis forense digital, redes y otras disciplinas relacionadas. Cada carpeta contiene documentación técnica, reflexiones personales y herramientas utilizadas.
+Este repositorio recopila prácticas técnicas, laboratorios, exámenes y trabajos realizados durante mi formación. Cada carpeta contiene documentación profesional, herramientas utilizadas y reflexiones personales sobre el aprendizaje obtenido.
+
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy Juan Carlos Vico, estudiante de ciberseguridad con formación en análisis forense, gestión de incidentes. He aprendido a usar todo tipo de herramientas forenses como Volatility, Autopsy, Wireshark y más.  
-Estoy en búsqueda activa de oportunidades para crecer profesionalmente en el sector.
+Soy **Juan Carlos Vico**, estudiante y profesional en formación dentro del ámbito de la ciberseguridad. Me especializo en:
 
-📧 Email: juancarlosvicolopez@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/juan-carlos-vico-lópez-602a43102/?trk=opento_sprofile_goalscard) 
+- Análisis forense digital
+- Gestión y respuesta ante incidentes
+- Seguridad en redes
+- Automatización y scripting en entornos de seguridad
+
+He trabajado con herramientas como **Volatility, Autopsy, Wireshark, FTK Imager, Snort**, entre otras.
+
+Actualmente estoy en búsqueda activa de oportunidades para seguir creciendo profesionalmente en este sector.
+
+📧 **Email:** juancarlosvicolopez@gmail.com  
+🔗 **LinkedIn:** [Juan Carlos Vico López](https://www.linkedin.com/in/juan-carlos-vico-lópez-602a43102/?trk=opento_sprofile_goalscard)
 
 ---
 
-## 📁Índice Proyectos 
+## 📁 Índice de proyectos
 
-### 🔎 DFIR – Proyecto Final
-[➡️ Ver proyecto](./DFIR-Proyecto-Final)  
-Investigación forense de una máquina con posible compromiso por malware. Incluye informe ejecutivo, análisis de evidencias, y presentación para cliente.
-- [Pruebas y Exámenes](./Pruebas-y-Examenes)
-- [Prácticas](./Practicas)
-  - [Docker](./Practicas/Docker)
-  - [Snort](./Practicas/Snort)
-  - [Análisis de riesgos](./Practicas/Analisis-Riesgos)
-  - [Cisco Packet Tracer](./Practicas/Cisco)
-- [Laboratorios](./Laboratorios)
+| Categoría            | Descripción breve                                                                 |
+|----------------------|-------------------------------------------------------------------------------------|
+| 🔎 [DFIR – Proyecto Final](./DFIR---Proyecto-Final) | Investigación forense de un equipo comprometido. Incluye informes y análisis de evidencias. |
+| 🧪 [Pruebas y Exámenes](./Pruebas-y-Examenes)        | Evaluaciones técnicas en entornos simulados. ADS, Cisco Packet Tracer, etc.                 |
+| 🧰 [Prácticas](./Practicas)                          | Prácticas técnicas organizadas por tecnología: Docker, Snort, riesgos, redes, etc.          |
+| 🧪 [Laboratorios](./Laboratorios)                    | Labs prácticos (OSKI, WebStrike...) aplicando conocimientos ofensivos y defensivos.         |
 
-> ✍️ Este portfolio está en constante actualización a medida que continúo formándome y trabajando en proyectos nuevos.
+---
+
+## 🚧 En desarrollo
+
+Este portfolio está en constante evolución a medida que adquiero nuevas competencias, realizo prácticas o participo en nuevos proyectos del ámbito de la ciberseguridad.
+
+---
+
+### ✅ ¿Cómo usar este repositorio?
+
+- Explora las carpetas temáticas desde el índice
+- Cada proyecto contiene un `README.md` con detalles, objetivos y herramientas utilizadas
+- Ideal para reclutadores, colaboradores o como consulta personal
+
+---
+
+Gracias por tu interés 🙌  
+*Juan Carlos Vico*
