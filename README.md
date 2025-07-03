@@ -18,7 +18,7 @@ Estoy en búsqueda activa de oportunidades para crecer profesionalmente en el se
 ## 📁 Proyectos destacados
 
 ### 🔎 DFIR – Proyecto Final
-[➡️ Ver proyecto](./DFIR/Proyecto-Final)  
+[➡️ Ver proyecto](./DFIR-Proyecto-Final)  
 Investigación forense de una máquina con posible compromiso por malware. Incluye informe ejecutivo, análisis de evidencias, y presentación para cliente.
 
 ### 🧪 Análisis de malware – Caso Lokibot
