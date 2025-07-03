@@ -7,7 +7,7 @@ Este repositorio recopila trabajos técnicos, análisis forenses, scripts y apun
 
 ## 👨‍💻 Sobre mí
 
-Soy Juan Carlos Vico, estudiante de ciberseguridad con formación en análisis forense, gestión de incidentes, y herramientas como Volatility, Autopsy, Wireshark y más.  
+Soy Juan Carlos Vico, estudiante de ciberseguridad con formación en análisis forense, gestión de incidentes. He aprendido a usar todo tipo de herramientas forenses como Volatility, Autopsy, Wireshark y más.  
 Estoy en búsqueda activa de oportunidades para crecer profesionalmente en el sector.
 
 📧 Email: juancarlosvicolopez@gmail.com  
