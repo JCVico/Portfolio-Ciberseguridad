@@ -28,7 +28,7 @@ Actualmente estoy en búsqueda activa de oportunidades para seguir creciendo pro
 
 | Categoría            | Descripción breve                                                                 |
 |----------------------|-------------------------------------------------------------------------------------|
-| 🔎 [DFIR – Proyecto Final](./DFIR---Proyecto-Final) | Investigación forense de un equipo comprometido. Incluye informes y análisis de evidencias. |
+| 🔎 [DFIR – Proyecto Final](./DFIR-Proyecto-Final) | Investigación forense de un equipo comprometido. Incluye informes y análisis de evidencias. |
 | 🧪 [Pruebas y Exámenes](./Pruebas-y-Examenes)        | Evaluaciones técnicas en entornos simulados. ADS, Cisco Packet Tracer, etc.                 |
 | 🧰 [Prácticas](./Practicas)                          | Prácticas técnicas organizadas por tecnología: Docker, Snort, riesgos, redes, etc.          |
 | 🧪 [Laboratorios](./Laboratorios)                    | Labs prácticos (OSKI, WebStrike...) aplicando conocimientos ofensivos y defensivos.         |
