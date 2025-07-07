@@ -9,6 +9,7 @@ Los laboratorios están diseñados para simular escenarios reales de ataques, an
 ## 📁 Índice de laboratorios
 
 ### 🔬 [Oski Lab](./Oski-Lab/)
+### 🔬 [WebStrike Lab](./WebStrike-Lab/)
 
 
 *(Más laboratorios próximamente...)*
