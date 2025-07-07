@@ -9,9 +9,7 @@ Los laboratorios están diseñados para simular escenarios reales de ataques, an
 ## 📁 Índice de laboratorios
 
 ### 🔬 [Oski Lab](./Oski-Lab/)
-Análisis de un archivo `.PPT` malicioso recibido por correo en un entorno empresarial simulado. Se identifican técnicas de exfiltración, evasión, y autoeliminación.  
-**Herramientas:** VirusTotal, ANY.RUN, Recorded Future  
-**Malware identificado:** Stealc
+
 
 *(Más laboratorios próximamente...)*
 
