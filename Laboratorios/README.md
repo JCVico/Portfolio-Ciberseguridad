@@ -1,56 +1,29 @@
-# 🧪 Laboratorio – CyberDefenders: Oski Lab
+# 🧪 Laboratorios Técnicos de Ciberseguridad
 
-**Fecha de realización:** 27/05/2025  
-**Plataforma:** CyberDefenders  
-**Duración estimada:** 45 minutos  
-**Nivel de dificultad:** Media
+Esta sección del portfolio contiene laboratorios prácticos realizados en plataformas especializadas como **CyberDefenders**, **TryHackMe**, entre otras.
 
----
-
-## 🎯 Descripción
-
-Este laboratorio simula una situación real en la que un empleado abre un archivo malicioso (.PPT) enviado por correo. El objetivo del ejercicio es analizar el comportamiento del archivo, identificar el malware y entender sus técnicas de persistencia, evasión y exfiltración.
+Los laboratorios están diseñados para simular escenarios reales de ataques, análisis forense, respuesta ante incidentes, detección de amenazas y explotación controlada. Cada uno incluye una explicación detallada de los objetivos, herramientas utilizadas y un análisis técnico paso a paso.
 
 ---
 
-## 🔍 Objetivos del análisis
+## 📁 Índice de laboratorios
 
-- Identificar la **familia del malware** embebido en el archivo.
-- Analizar la **fecha de creación**, el **servidor C2C**, y las **librerías utilizadas**.
-- Determinar la técnica **MITRE ATT&CK** empleada.
-- Extraer datos como la **clave RC4** y observar el proceso de **autoeliminación**.
+### 🔬 [Oski Lab](./Oski-Lab/)
+Análisis de un archivo `.PPT` malicioso recibido por correo en un entorno empresarial simulado. Se identifican técnicas de exfiltración, evasión, y autoeliminación.  
+**Herramientas:** VirusTotal, ANY.RUN, Recorded Future  
+**Malware identificado:** Stealc
 
----
-
-## 🛠️ Herramientas utilizadas
-
-- [VirusTotal](https://www.virustotal.com/)
-- [ANY.RUN](https://app.any.run/)
-- [Recorded Future Triage](https://triage.recordedfuture.com/)
+*(Más laboratorios próximamente...)*
 
 ---
 
-## ✅ Resultados clave
+## 🎯 Objetivo de esta sección
 
-| Pregunta | Resultado |
-|---------|-----------|
-| **Familia del malware** | Stealc |
-| **Fecha de creación** | 2022-09-28 17:40:46 UTC |
-| **Servidor C2C** | `http://171.22.28.221/5c06c05b7b34e8e6.php` |
-| **Primera DLL cargada** | `sqlite3.dll` |
-| **Clave RC4** | `5329514621441247975720749009` |
-| **Técnica MITRE ATT&CK** | T1555 – Credentials from Password Stores |
-| **Ruta de eliminación** | `C:\ProgramData` |
-| **Autoeliminación** | 5 segundos tras exfiltración |
+- Aplicar conocimientos de análisis forense, malware y amenazas reales
+- Reforzar el uso de herramientas profesionales
+- Documentar aprendizajes y técnicas relevantes para DFIR y análisis de seguridad
 
 ---
 
-## 🧠 Reflexión personal
+> Cada laboratorio ha sido desarrollado en entornos controlados y con fines educativos.
 
-Este laboratorio fue especialmente interesante porque me permitió aplicar conocimientos prácticos sobre análisis de malware combinando análisis estático y dinámico. Ver cómo el malware usa DLLs legítimas y se autoelimina tras la exfiltración fue clave para entender su sofisticación. Herramientas como ANY.RUN y VirusTotal facilitaron mucho el proceso de descubrimiento.
-
----
-
-## 📁 Archivos
-
-- [`OSKI LAB.docx`](../OSKI-LAB.docx): Informe original del laboratorio 
