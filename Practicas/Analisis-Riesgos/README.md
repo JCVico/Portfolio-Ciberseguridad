@@ -2,7 +2,6 @@
 # 🛡️ Práctica: Análisis de Riesgos en Empresa Simulada
  
 **Curso:** DFIR – Digital Forensic and Incident Response  
-**Duración estimada:** 1 hora  
 **Tipo de actividad:** Evaluación práctica
 
 ---
