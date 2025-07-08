@@ -20,7 +20,7 @@ He trabajado con herramientas como **Volatility, Autopsy, Wireshark, FTK Imager,
 Actualmente estoy en búsqueda activa de oportunidades para seguir creciendo profesionalmente en este sector.
 
 📧 **Email:** juancarlosvicolopez@gmail.com  
-🔗 **LinkedIn:** [Juan Carlos Vico López](https://www.linkedin.com/in/juan-carlos-vico-lópez-602a43102/?trk=opento_sprofile_goalscard)
+🔗 **LinkedIn:** [Juan Carlos Vico López](https://www.linkedin.com/in/juan-carlos-v-602a43102)
 
 ---
 
