@@ -60,7 +60,7 @@ Se siguieron procedimientos forenses y normativas vigentes para garantizar la ca
 
 **Juan Carlos Vico López**  
 Estudiante de Ciberseguridad y DFIR  
-[LinkedIn](https://www.linkedin.com/in/juan-carlos-vico-lópez-602a43102/?trk=opento_sprofile_goalscard) 
+[LinkedIn](https://www.linkedin.com/in/juan-carlos-v-602a43102) 
 
 ---
 
