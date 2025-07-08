@@ -45,7 +45,7 @@ Este portfolio está en constante evolución a medida que adquiero nuevas compet
 
 - Explora las carpetas temáticas desde el índice
 - Cada proyecto contiene un `README.md` con detalles, objetivos y herramientas utilizadas
-- Ideal para reclutadores, colaboradores o como consulta personal
+- Ideal para consulta personal, colaboradores o incluso para reclutadores.
 
 ---
 
