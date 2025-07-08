@@ -42,5 +42,5 @@ Esta práctica tiene como objetivo el diseño y configuración de una red segmen
 
 ## 📁 Archivos
 
-- [`Practica-Cisco-Packet-Tracer.pdf`](./Practica-Cisco-Packet-Tracer.pdf): Informe detallado con explicación de la topología, IPs, configuración y pruebas realizadas.
+- [`Práctica-Cisco-Packet-Tracer.pdf`](./Práctica-Cisco-Packet-Tracer.pdf): Informe detallado con explicación de la topología, IPs, configuración y pruebas realizadas.
 ---
