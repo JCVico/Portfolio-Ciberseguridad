@@ -1,17 +1,18 @@
 # 🛡️ Portfolio de Ciberseguridad – Juan Carlos Vico
 
 ¡Bienvenido a mi portfolio de prácticas y laboratorios de ciberseguridad!  
-Aquí encontrarás proyectos técnicos que reflejan mi aprendizaje y experiencia en áreas como análisis forense, redes, y respuesta ante incidentes.
+Aquí encontrarás proyectos técnicos que reflejan mi aprendizaje y experiencia en áreas como  
+análisis forense, redes y respuesta ante incidentes.
 
 ---
 
 ## 📌 Índice
 
-- [Sobre mí](#sobre-mí)
-- [Habilidades técnicas](#habilidades-técnicas)
-- [Laboratorios destacados](#laboratorios-destacados)
-- [Progreso y roadmap](#progreso-y-roadmap)
-- [Contacto](#contacto)
+- [Sobre mí](#-sobre-mí)
+- [Habilidades técnicas](#-habilidades-técnicas)
+- [Laboratorios destacados](#-laboratorios-destacados)
+- [Progreso y roadmap](#️-progreso-y-roadmap)
+- [Contacto](#-contacto)
 
 ---
 
@@ -23,26 +24,27 @@ Soy un apasionado de la ciberseguridad, con formación práctica en áreas como:
 - Seguridad de redes
 - OSINT y análisis de malware básico
 
-Certificaciones en curso: Cisco Certificate in Ethical Hacking, certificación de Fundamentos de IA Generativa.
+Certificaciones en curso: Cisco Certificate in Ethical Hacking,  
+certificación de Fundamentos de IA Generativa.
 
 ---
 
 ## 🧰 Habilidades técnicas
 
-| Categoría           | Herramientas y Tecnologías |
-|---------------------|----------------------------|
-| 🔍 Forense           | Autopsy, Volatility, Wireshark |
-| 🖥️ Sistemas          | Linux (Kali, Ubuntu), Windows Server |
-| 📜 Scripting         | Bash, Python, PowerShell |
-| 📡 Redes             | TCPDump, Wireshark, Netcat |
-| 📦 Virtualización    | VirtualBox, VMware, Docker |
+| Categoría        | Herramientas y Tecnologías             |
+|------------------|----------------------------------------|
+| 🔍 Forense        | Autopsy, Volatility, Wireshark         |
+| 🖥️ Sistemas       | Linux (Kali, Ubuntu), Windows Server   |
+| 📜 Scripting      | Bash, Python, PowerShell               |
+| 📡 Redes          | TCPDump, Wireshark, Netcat             |
+| 📦 Virtualización | VirtualBox, VMware, Docker             |
 
 ---
 
 ## 🧪 Laboratorios destacados
 
-| Proyecto | Descripción | Enlace |
-|---------|-------------|--------|
+| Proyecto     | Descripción                                       | Enlace                       |
+|--------------|---------------------------------------------------|------------------------------|
 | 🧠 DFIR Final | Análisis forense completo de una imagen comprometida | [Ver Proyecto](./DFIR-Proyecto-Final) |
 
 > Cada práctica incluye objetivos, herramientas utilizadas, resultados y capturas.
@@ -63,7 +65,7 @@ Certificaciones en curso: Cisco Certificate in Ethical Hacking, certificación d
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-carlos-v-602a43102)
 - 🌐 [GitHub](https://github.com/JCVico)
-- 📫 Email: juancarlosvicolopez@gmail.com
+- 📫 Email: [juancarlosvicolopez@gmail.com](mailto:juancarlosvicolopez@gmail.com)
 
 ---
 
