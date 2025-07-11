@@ -55,6 +55,3 @@ Esta práctica consiste en evaluar los riesgos operacionales y de seguridad de u
 ## 📁 Archivos
 
 - [`Practica-Analisis-Riesgos.pdf`](./Practica-Analisis-Riesgos.pdf): Documento original de la práctica con matrices, tablas y recomendaciones.
-
-
-
