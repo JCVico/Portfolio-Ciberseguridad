@@ -36,9 +36,3 @@ Esta práctica introduce los fundamentos del uso de contenedores con Docker. Se 
 ## 📁 Archivos
 
 - [`Práctica-Docker.pdf`](./Práctica-Docker.pdf): Informe con capturas, pruebas y explicación paso a paso.
-
----
-
-## 🧭 Ruta sugerida
-
-
