@@ -75,6 +75,6 @@ Este repositorio se encuentra bajo la licencia [MIT](LICENSE).
 Puedes usar el contenido libremente con fines educativos y personales.
 
 ---
-
+  
 > “La mejor defensa es entender cómo piensa el atacante.” 🧠
 
