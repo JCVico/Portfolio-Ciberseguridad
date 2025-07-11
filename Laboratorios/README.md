@@ -25,6 +25,3 @@ objetivos, herramientas utilizadas y un análisis técnico paso a paso.
 - Documentar aprendizajes y técnicas relevantes para DFIR y análisis de seguridad
 
 > ⚠️ Cada laboratorio ha sido desarrollado en entornos controlados y con fines educativos.
-
----
-
