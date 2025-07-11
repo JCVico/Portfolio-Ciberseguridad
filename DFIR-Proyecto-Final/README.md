@@ -1,7 +1,7 @@
 # 🕵️‍♂️ DFIR – Proyecto Final
 
-Proyecto final del curso **Digital Forensic and Incident Response (DFIR) – 3ª edición**   
-Organizado por *Fundación ONCE*, *Por Talento Digital* e *INCIBE*; impartido por **Arelance** y  
+Proyecto final del curso **Digital Forensic and Incident Response (DFIR) – 3ª edición**
+Organizado por *Fundación ONCE*, *Por Talento Digital* e *INCIBE*; impartido por **Arelance** y
 **Cayetano de Juan**.
 
 📁 Trabajo realizado en grupo por:
@@ -69,4 +69,3 @@ validez jurídica de las evidencias y la presentación clara de los hallazgos.
 ---
 
 > Proyecto realizado con fines educativos en un entorno simulado.
-
