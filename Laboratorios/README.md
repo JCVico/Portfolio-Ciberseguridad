@@ -1,18 +1,20 @@
 # 🧪 Laboratorios Técnicos de Ciberseguridad
 
-Esta sección del portfolio contiene laboratorios prácticos realizados en plataformas especializadas como **CyberDefenders**, **TryHackMe**, entre otras.
+Esta sección del portfolio contiene laboratorios prácticos realizados en
+plataformas especializadas como **CyberDefenders**, **TryHackMe**, entre otras.
 
-Los laboratorios están diseñados para simular escenarios reales de ataques, análisis forense, respuesta ante incidentes, detección de amenazas y explotación controlada. Cada uno incluye una explicación detallada de los objetivos, herramientas utilizadas y un análisis técnico paso a paso.
+Los laboratorios están diseñados para simular escenarios reales de ataques,
+análisis forense, respuesta ante incidentes, detección de amenazas y
+explotación controlada. Cada uno incluye una explicación detallada de los
+objetivos, herramientas utilizadas y un análisis técnico paso a paso.
 
 ---
 
 ## 📁 Índice de laboratorios
 
-### 🔬 [Oski Lab](./Oski-Lab/)
-### 🔬 [WebStrike Lab](./WebStrike-Lab/)
-
-
-*(Más laboratorios próximamente...)*
+- 🔬 [Oski Lab](./Oski-Lab/)
+- 🔬 [WebStrike Lab](./WebStrike-Lab/)
+- *(Más laboratorios próximamente...)*
 
 ---
 
@@ -22,7 +24,7 @@ Los laboratorios están diseñados para simular escenarios reales de ataques, an
 - Reforzar el uso de herramientas profesionales
 - Documentar aprendizajes y técnicas relevantes para DFIR y análisis de seguridad
 
----
+> ⚠️ Cada laboratorio ha sido desarrollado en entornos controlados y con fines educativos.
 
-> Cada laboratorio ha sido desarrollado en entornos controlados y con fines educativos.
+---
 
