@@ -37,4 +37,3 @@ la instalación hasta la ejecución de múltiples contenedores, la exposición d
 ## 📁 Archivos
 
 - [`Práctica-Docker.pdf`](./Práctica-Docker.pdf): Informe con capturas, pruebas y explicación paso a paso.
-
