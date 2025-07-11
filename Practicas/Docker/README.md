@@ -9,7 +9,8 @@
 
 ## 🎯 Descripción
 
-Esta práctica introduce los fundamentos del uso de contenedores con Docker. Se realizaron ejercicios prácticos desde la instalación de Docker hasta la ejecución de múltiples contenedores, exposición de puertos y uso de volúmenes compartidos.
+Esta práctica introduce los fundamentos del uso de contenedores con Docker. Se realizaron ejercicios prácticos que abarcan desde
+la instalación hasta la ejecución de múltiples contenedores, la exposición de puertos y el uso de volúmenes compartidos.
 
 ---
 
@@ -17,22 +18,23 @@ Esta práctica introduce los fundamentos del uso de contenedores con Docker. Se 
 
 - Instalación y validación de Docker Desktop en entorno local
 - Descarga de una imagen desde [Docker Hub](https://hub.docker.com)
-- Ejecución de contenedores y comprobación del servicio vía navegador
-- Exposición de contenedores en puertos distintos (por ejemplo, `4567`)
-- Apagado de contenedores y creación de uno nuevo con directorio compartido
-- Verificación de acceso mutuo entre host y container
+- Ejecución de contenedores y verificación vía navegador
+- Exposición de servicios en distintos puertos (ej. `4567`)
+- Apagado de contenedores y creación de uno nuevo con volumen compartido
+- Verificación del acceso mutuo entre host y container
 
 ---
 
 ## 🛠️ Comandos y herramientas utilizadas
 
-- `docker pull` → para descargar imágenes
-- `docker run -d -p ...` → para crear contenedores en segundo plano
-- `docker ps`, `docker stop`, `docker volume`...
-- Interacción vía interfaz web de Docker Desktop
+- `docker pull` → Descargar imágenes
+- `docker run -d -p ...` → Crear contenedores en segundo plano
+- `docker ps`, `docker stop`, `docker volume`, etc.
+- Interacción adicional mediante la interfaz gráfica de Docker Desktop
 
 ---
 
 ## 📁 Archivos
 
 - [`Práctica-Docker.pdf`](./Práctica-Docker.pdf): Informe con capturas, pruebas y explicación paso a paso.
+
