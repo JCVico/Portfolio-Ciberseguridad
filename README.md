@@ -1,53 +1,78 @@
-# 🔐 Portfolio de Ciberseguridad – Juan Carlos Vico
+# 🛡️ Portfolio de Ciberseguridad – Juan Carlos Vico
 
-¡Bienvenido/a a mi portfolio de proyectos y prácticas en el ámbito de la **Ciberseguridad**, la **Forensia Digital** y la **Respuesta ante Incidentes (DFIR)**.
+¡Bienvenido a mi portfolio de prácticas y laboratorios de ciberseguridad!  
+Aquí encontrarás proyectos técnicos que reflejan mi aprendizaje y experiencia en áreas como análisis forense, pentesting, redes, y respuesta ante incidentes.
 
-Este repositorio recopila prácticas técnicas, laboratorios, exámenes y trabajos realizados durante mi formación. Cada carpeta contiene documentación profesional, herramientas utilizadas y reflexiones personales sobre el aprendizaje obtenido.
+---
+
+## 📌 Índice
+
+- [Sobre mí](#sobre-mí)
+- [Habilidades técnicas](#habilidades-técnicas)
+- [Laboratorios destacados](#laboratorios-destacados)
+- [Progreso y roadmap](#progreso-y-roadmap)
+- [Contacto](#contacto)
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy **Juan Carlos Vico**, estudiante y profesional en formación dentro del ámbito de la ciberseguridad. Me especializo en:
+Soy un apasionado de la ciberseguridad, con formación práctica en áreas como:
 
-- Análisis forense digital
-- Gestión y respuesta ante incidentes
-- Seguridad en redes
-- Automatización y scripting en entornos de seguridad
+- Análisis forense y respuesta a incidentes (DFIR)
+- Seguridad de redes
+- OSINT y análisis de malware básico
 
-He trabajado con herramientas como **Volatility, Autopsy, Wireshark, FTK Imager, Snort**, entre otras.
-
-Actualmente estoy en búsqueda activa de oportunidades para seguir creciendo profesionalmente en este sector.
-
-📧 **Email:** juancarlosvicolopez@gmail.com  
-🔗 **LinkedIn:** [Juan Carlos Vico López](https://www.linkedin.com/in/juan-carlos-v-602a43102)
+Certificaciones en curso: Cisco Certificate in Ethical Hacking, certificación de Fundamentos de IA Generativa.
 
 ---
 
-## 📁 Índice de proyectos
+## 🧰 Habilidades técnicas
 
-| Categoría            | Descripción breve                                                                 |
-|----------------------|-------------------------------------------------------------------------------------|
-| 🔎 [DFIR – Proyecto Final](./DFIR-Proyecto-Final) | Investigación forense de un equipo comprometido. Incluye informes y análisis de evidencias. |
-| 🧪 [Pruebas y Exámenes](./Pruebas-y-Examenes)        | Evaluaciones técnicas en entornos simulados. ADS, Cisco Packet Tracer, etc.                 |
-| 🧰 [Prácticas](./Practicas)                          | Prácticas técnicas organizadas por tecnología: Docker, Snort, riesgos, redes, etc.          |
-| 🧪 [Laboratorios](./Laboratorios)                    | Labs prácticos (OSKI, WebStrike...) aplicando conocimientos ofensivos y defensivos.         |
-
----
-
-## 🚧 En desarrollo
-
-Este portfolio está en constante evolución a medida que adquiero nuevas competencias, realizo prácticas o participo en nuevos proyectos del ámbito de la ciberseguridad.
+| Categoría           | Herramientas y Tecnologías |
+|---------------------|----------------------------|
+| 🔍 Forense           | Autopsy, Volatility, Wireshark |
+| 🖥️ Sistemas          | Linux (Kali, Ubuntu), Windows Server |
+| 📜 Scripting         | Bash, Python, PowerShell |
+| 📡 Redes             | TCPDump, Wireshark, Netcat |
+| 📦 Virtualización    | VirtualBox, VMware, Docker |
 
 ---
 
-### ✅ ¿Cómo usar este repositorio?
+## 🧪 Laboratorios destacados
 
-- Explora las carpetas temáticas desde el índice
-- Cada proyecto contiene un `README.md` con detalles, objetivos y herramientas utilizadas
-- Ideal para consulta personal, colaboradores o incluso para reclutadores.
+| Proyecto | Descripción | Enlace |
+|---------|-------------|--------|
+| 🧠 DFIR Final | Análisis forense completo de una imagen comprometida | [Ver Proyecto](./Laboratorios/DFIR-Proyecto-Final) |
+
+> Cada práctica incluye objetivos, herramientas utilizadas, resultados y capturas.
 
 ---
 
-Gracias por tu interés 🙌  
-*Juan Carlos Vico*
+## 🗓️ Progreso y Roadmap
+
+- [x] Crear repositorio e iniciar documentación
+- [x] Añadir prácticas iniciales (DFIR, OSINT)
+- [ ] Integrar GitHub Pages como portfolio web
+- [ ] Subir scripts y automatizaciones
+- [ ] Añadir retos de CTF resueltos
+
+---
+
+## 🤝 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-carlos-v-602a43102)
+- 🌐 [GitHub](https://github.com/JCVico)
+- 📫 Email: juancarlosvicolopez@gmail.com
+
+---
+
+## 📜 Licencia
+
+Este repositorio se encuentra bajo la licencia [MIT](LICENSE).  
+Puedes usar el contenido libremente con fines educativos y personales.
+
+---
+
+> “La mejor defensa es entender cómo piensa el atacante.” 🧠
+
