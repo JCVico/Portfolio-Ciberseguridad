@@ -1,8 +1,8 @@
 # 🛡️ Portfolio de Ciberseguridad – Juan Carlos Vico
 
-¡Bienvenido a mi portfolio de prácticas y laboratorios de ciberseguridad!  
-Aquí encontrarás proyectos técnicos que reflejan mi aprendizaje y experiencia en áreas como  
-análisis forense, redes y respuesta ante incidentes.
+¡Bienvenido a mi repositorio de prácticas y laboratorios de ciberseguridad!  
+Aquí encontrarás ejemplos reales de análisis forense, respuesta ante incidentes,
+redes, scripting y más.
 
 ---
 
@@ -18,14 +18,13 @@ análisis forense, redes y respuesta ante incidentes.
 
 ## 👨‍💻 Sobre mí
 
-Soy un apasionado de la ciberseguridad, con formación práctica en áreas como:
+Soy una persona con perfil técnico y formación en ciberseguridad, especializada en:
 
-- Análisis forense y respuesta a incidentes (DFIR)
-- Seguridad de redes
-- OSINT y análisis de malware básico
-
-Certificaciones en curso: Cisco Certificate in Ethical Hacking,  
-certificación de Fundamentos de IA Generativa.
+- 🔍 Análisis forense y respuesta a incidentes (DFIR)
+- 🧠 OSINT y análisis básico de malware
+- 🔐 Seguridad de redes
+- 💻 Certificaciones activas: Google Cybersecurity, CCST, IT Specialist
+- 📚 En formación: Cisco Ethical Hacking y fundamentos de IA generativa
 
 ---
 
@@ -46,15 +45,14 @@ certificación de Fundamentos de IA Generativa.
 | Proyecto     | Descripción                                       | Enlace                       |
 |--------------|---------------------------------------------------|------------------------------|
 | 🧠 DFIR Final | Análisis forense completo de una imagen comprometida | [Ver Proyecto](./DFIR-Proyecto-Final) |
-
-> Cada práctica incluye objetivos, herramientas utilizadas, resultados y capturas.
+| 🛡️ Snort IDS | Configuración y prueba de reglas personalizadas | [Ver Práctica](https://github.com/JCVico/Portfolio-Ciberseguridad/tree/main/Practicas/Snort) |
 
 ---
 
 ## 🗓️ Progreso y Roadmap
 
 - [x] Crear repositorio e iniciar documentación
-- [x] Añadir prácticas iniciales (DFIR, OSINT)
+- [x] Añadir prácticas iniciales (DFIR, Snort)
 - [ ] Integrar GitHub Pages como portfolio web
 - [ ] Subir scripts y automatizaciones
 - [ ] Añadir retos de CTF resueltos
@@ -65,13 +63,13 @@ certificación de Fundamentos de IA Generativa.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-carlos-v-602a43102)
 - 🌐 [GitHub](https://github.com/JCVico)
-- 📫 Email: [juancarlosvicolopez@gmail.com](mailto:juancarlosvicolopez@gmail.com)
+- 📫 [juancarlosvicolopez@gmail.com](mailto:juancarlosvicolopez@gmail.com)
 
 ---
 
 ## 📜 Licencia
  
-Puedes usar el contenido libremente con fines educativos y personales.
+Este contenido está disponible para uso **educativo y personal**.  
 
 ---
 
