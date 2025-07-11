@@ -1,7 +1,7 @@
 # 🛡️ Portfolio de Ciberseguridad – Juan Carlos Vico
 
 ¡Bienvenido a mi portfolio de prácticas y laboratorios de ciberseguridad!  
-Aquí encontrarás proyectos técnicos que reflejan mi aprendizaje y experiencia en áreas como análisis forense, pentesting, redes, y respuesta ante incidentes.
+Aquí encontrarás proyectos técnicos que reflejan mi aprendizaje y experiencia en áreas como análisis forense, redes, y respuesta ante incidentes.
 
 ---
 
