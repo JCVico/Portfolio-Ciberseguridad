@@ -10,7 +10,9 @@
 
 ## 🎯 Descripción
 
-Esta práctica tiene como objetivo el diseño y configuración de una red segmentada en VLANs utilizando Cisco Packet Tracer. Se parte de un escenario simulado con tres departamentos que requieren aislamiento lógico, pero conectividad entre ellos a través de un router con interfaces virtuales.
+Diseño y configuración de una red segmentada en VLANs mediante Cisco Packet Tracer.
+Se parte de un escenario simulado con tres departamentos que requieren aislamiento
+lógico, pero comunicación entre ellos a través de un router con subinterfaces.
 
 ---
 
@@ -20,26 +22,26 @@ Esta práctica tiene como objetivo el diseño y configuración de una red segmen
   - Contabilidad (`192.168.1.0/24`)
   - Administración (`192.168.2.0/24`)
   - Servidores (`192.168.3.0/24`)
-- Configuración de puertos del switch asignados a cada VLAN
-- Creación y asignación de interfaces VLAN en el router
-- Asignación de IPs estáticas a PCs y servidores
-- Cableado de red y configuración del hardware virtual
-- Verificación de conectividad con pruebas de `ping` entre dispositivos
+- Configuración de puertos del switch según VLAN
+- Creación y asignación de subinterfaces en el router
+- IPs estáticas asignadas a PCs y servidores
+- Cableado y configuración del hardware virtual
+- Verificación de conectividad con pruebas `ping`
 
 ---
 
 ## 🖥️ Aspectos técnicos destacados
 
-| Elemento      | Configuración                       |
-|---------------|-------------------------------------|
-| VLAN 1 (Contabilidad) | Puertos F0/1 a F0/4 → 192.168.1.x |
-| VLAN 2 (Administración) | Puertos F0/5 a F0/8 → 192.168.2.x |
-| VLAN 3 (Servidores) | Puertos F0/9 a F0/12 → 192.168.3.x |
-| Router Interfaces | 1 por VLAN configuradas con IP gateway |
-| Verificación | Pings exitosos entre equipos de distintas VLANs |
+| Elemento            | Configuración                            |
+|---------------------|------------------------------------------|
+| VLAN 1 (Contabilidad)    | Puertos F0/1 a F0/4 → 192.168.1.x       |
+| VLAN 2 (Administración)  | Puertos F0/5 a F0/8 → 192.168.2.x       |
+| VLAN 3 (Servidores)      | Puertos F0/9 a F0/12 → 192.168.3.x      |
+| Router Interfaces        | Subinterfaces configuradas como gateway |
+| Verificación             | Pings exitosos entre VLANs              |
 
 ---
 
 ## 📁 Archivos
 
-- [`Práctica-Cisco-Packet-Tracer.pdf`](./Práctica-Cisco-Packet-Tracer.pdf): Informe detallado con explicación de la topología, IPs, configuración y pruebas realizadas.
+- [`Práctica-Cisco-Packet-Tracer.pdf`](./Práctica-Cisco-Packet-Tracer.pdf): Informe con topología, configuraciones e IPs.
