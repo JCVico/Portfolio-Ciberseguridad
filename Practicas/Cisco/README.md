@@ -1,4 +1,4 @@
- 
+
 # 🌐 Práctica: Segmentación de redes con Cisco Packet Tracer
 
 **Curso:** DFIR – Digital Forensic and Incident Response  
@@ -43,4 +43,3 @@ Esta práctica tiene como objetivo el diseño y configuración de una red segmen
 ## 📁 Archivos
 
 - [`Práctica-Cisco-Packet-Tracer.pdf`](./Práctica-Cisco-Packet-Tracer.pdf): Informe detallado con explicación de la topología, IPs, configuración y pruebas realizadas.
----
