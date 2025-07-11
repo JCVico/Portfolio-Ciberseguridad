@@ -1,4 +1,4 @@
- # 🛡️ Práctica: Instalación y Configuración de Snort como NIDS
+# 🛡️ Práctica: Instalación y Configuración de Snort como NIDS
 
 **Curso:** DFIR – Digital Forensic and Incident Response  
 **Módulo:** Respuesta ante Incidentes  
@@ -9,7 +9,9 @@
 
 ## 🎯 Descripción
 
-Esta práctica consistió en la **instalación y configuración de Snort** como un sistema de detección de intrusos en red (NIDS), desplegado sobre una máquina virtual con Parrot OS. Se diseñaron y ejecutaron varios escenarios de detección mediante reglas personalizadas que simulan actividades maliciosas o sospechosas comunes en entornos reales.
+Esta práctica consistió en la **instalación y configuración de Snort** como sistema de detección de intrusos en red (NIDS), desplegado
+sobre una máquina virtual con Parrot OS. Se diseñaron y ejecutaron varios escenarios de detección mediante reglas personalizadas que
+simulan actividades maliciosas o sospechosas comunes en entornos reales.
 
 ---
 
@@ -26,14 +28,15 @@ Esta práctica consistió en la **instalación y configuración de Snort** como 
 
 ## 🔍 Reglas y casos de uso implementados
 
-| Caso de uso                         | Tipo de regla y técnica |
-|------------------------------------|--------------------------|
-| 🔔 ICMP a 8.8.8.8                   | Detección de pings         |
-| 🌐 Tráfico web (HTTP/HTTPS)        | Puertos 80, 443, 8080     |
-| ☁️ Conexión a Dropbox              | Por contenido, TLS SNI e IP |
-| 🔑 Conexiones salientes por SSH    | Puerto 22, tráfico saliente |
+| Caso de uso                  | Tipo de regla y técnica            |
+|-----------------------------|------------------------------------|
+| 🔔 ICMP a 8.8.8.8            | Detección de pings                 |
+| 🌐 Tráfico web (HTTP/HTTPS) | Puertos 80, 443, 8080              |
+| ☁️ Conexión a Dropbox       | Por contenido, TLS SNI e IP        |
+| 🔑 Conexiones por SSH       | Puerto 22, tráfico saliente        |
 
-Cada regla fue comprobada, ajustada y verificada mediante logs en `/var/log/snort/alert`.
+Las reglas fueron comprobadas y validadas mediante los logs generados en:  
+`/var/log/snort/alert`
 
 ---
 
@@ -48,12 +51,15 @@ Cada regla fue comprobada, ajustada y verificada mediante logs en `/var/log/snor
 
 ## 📁 Archivos
 
-- [`Práctica-SNORT.pdf`](./Práctica-SNORT.pdf): Informe completo con explicación paso a paso, comandos utilizados, reglas personalizadas y resultados de ejecución.
+- [`Práctica-SNORT.pdf`](./Práctica-SNORT.pdf): Informe completo con explicación paso a paso, comandos utilizados, reglas personalizadas y resultados.
 
 ---
 
 ## 🧠 Reflexión personal
 
-Esta práctica me permitió profundizar en el funcionamiento real de un sistema IDS en red, desde su instalación hasta su uso en un entorno práctico. Las reglas desarrolladas mostraron cómo detectar múltiples tipos de tráfico, lo cual refuerza tanto el conocimiento técnico de red como la capacidad de reacción ante incidentes.
+Esta práctica me permitió profundizar en el funcionamiento real de un sistema IDS en red, desde su instalación hasta su uso en
+entornos simulados. Las reglas desarrolladas demostraron cómo detectar múltiples tipos de tráfico, lo que refuerza tanto el
+conocimiento técnico de red como la capacidad de reacción ante incidentes.
 
-Aprendí a solucionar problemas reales como errores de versión, conflictos con repositorios o ajustes del firewall, lo cual fue clave para conseguir un entorno funcional. Snort se presenta como una herramienta fundamental para cualquier profesional de seguridad defensiva.
+Además, enfrentarse a problemas reales como conflictos de versión, ajustes de firewall o errores de repositorio fortaleció
+mis habilidades prácticas. **Snort** se posiciona como una herramienta esencial para cualquier profesional de ciberseguridad defensiva.
