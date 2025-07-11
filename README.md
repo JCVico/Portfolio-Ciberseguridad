@@ -43,7 +43,7 @@ Certificaciones en curso: Cisco Certificate in Ethical Hacking, certificación d
 
 | Proyecto | Descripción | Enlace |
 |---------|-------------|--------|
-| 🧠 DFIR Final | Análisis forense completo de una imagen comprometida | [Ver Proyecto](./Laboratorios/DFIR-Proyecto-Final) |
+| 🧠 DFIR Final | Análisis forense completo de una imagen comprometida | [Ver Proyecto](./DFIR-Proyecto-Final) |
 
 > Cada práctica incluye objetivos, herramientas utilizadas, resultados y capturas.
 
