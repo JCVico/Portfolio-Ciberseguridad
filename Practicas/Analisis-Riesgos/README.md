@@ -57,4 +57,3 @@ probables, estimar su impacto y proponer contramedidas eficaces.
 
 - [`Practica-Analisis-Riesgos.pdf`](./Practica-Analisis-Riesgos.pdf):  
   Documento con matrices, amenazas evaluadas y propuestas de mitigación.
-
