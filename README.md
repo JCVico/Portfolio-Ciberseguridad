@@ -70,8 +70,7 @@ certificación de Fundamentos de IA Generativa.
 ---
 
 ## 📜 Licencia
-
-Este repositorio se encuentra bajo la licencia [MIT](LICENSE).  
+ 
 Puedes usar el contenido libremente con fines educativos y personales.
 
 ---
