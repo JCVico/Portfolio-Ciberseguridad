@@ -14,6 +14,8 @@ objetivos, herramientas utilizadas y un análisis técnico paso a paso.
 
 - 🔬 [Oski Lab](./Oski-Lab/)
 - 🔬 [WebStrike Lab](./WebStrike-Lab/)
+- 🔬 [Amadey Lab](./Amadey-Lab/)
+- 🔬 [Lespion Lab](./Lespion-Lab/)
 - *(Más laboratorios próximamente...)*
 
 ---
