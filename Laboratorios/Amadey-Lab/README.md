@@ -69,5 +69,5 @@ En un entorno real, reforzaría la parte de análisis estático/dinámico de los
 
 ## 📁 Archivos
 
-- [`Amadey Lab.docx`](./%20Amadey%20Lab%20.docx): Informe final del laboratorio
+- [`Amadey Lab.docx`](./Amadey%20Lab.docx): Informe final del laboratorio
 
