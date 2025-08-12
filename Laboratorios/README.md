@@ -16,6 +16,7 @@ objetivos, herramientas utilizadas y un análisis técnico paso a paso.
 - 🔬 [WebStrike Lab](./WebStrike-Lab/)
 - 🔬 [Amadey Lab](./Amadey-Lab/)
 - 🔬 [Lespion Lab](./Lespion-Lab/)
+- 🔬 [TheCrime Lab](./TheCrime-Lab/)
 - *(Más laboratorios próximamente...)*
 
 ---
