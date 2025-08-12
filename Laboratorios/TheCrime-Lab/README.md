@@ -62,4 +62,4 @@ Este laboratorio me permitió combinar análisis forense móvil con herramientas
 
 ## 📁 Archivos
 
-- [`The Crime Lab.docx`](../TheCrime-Lab.docx): Informe final del laboratorio
+- [`The Crime Lab.docx`](../TheCrime%20Lab.docx): Informe final del laboratorio
