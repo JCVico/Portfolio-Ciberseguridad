@@ -51,8 +51,8 @@ Soy un profesional en transición hacia la ciberseguridad con una sólida base t
 | Proyecto      | Descripción                                                   | Enlace                       |
 |---------------|---------------------------------------------------------------|------------------------------|
 | 🧠 **DFIR Final** | Investigación forense completa: Adquisición, análisis de RAM y Timeline | [Ver Proyecto](./DFIR-Proyecto-Final) |
-| 🛡️ **Snort IDS** | Configuración de IDS y creación de reglas de detección de intrusos | [Ver Práctica](./Practicas/Snort) |
-| 👁️ **Blue Team Ops** | *(Próximamente)* Laboratorios de detección con Splunk y Sigma | [En construcción...] |
+| 🛡️ **APT Defense & SOC** | **Proyecto Final:** Simulación de ataque (Atomic Red Team), detección con Splunk/Sigma y bastionado | [Ver Proyecto](./Proyecto-Final-BlueTeam) |
+| 📡 **Snort IDS** | Configuración de IDS y creación de reglas de detección de intrusos | [Ver Práctica](./Practicas/Snort) |
 
 
 ---
