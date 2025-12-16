@@ -127,4 +127,15 @@ Este repositorio contiene la documentación detallada con evidencias, logs y pro
 
 ---
 
+### 👥 Integrantes del Proyecto
+
+**Proyecto final del curso Experto en Blue Team**
+Organizado por **Fundación ONCE**, **Por Talento Digital** e **INCIBE**.
+
+📁 **Trabajo realizado en grupo por:**
+* Marta Fernández
+* Juan Carlos Vico (autor del repositorio)
+
+---
+
 Este proyecto demuestra la capacidad de **traducir amenazas teóricas en defensas prácticas y operativas**, alineadas con estándares reales de seguridad.
