@@ -66,7 +66,7 @@ detection:
             - 'kerberoast'
     condition: selection
 level: high
-
+´´´
 **Consulta SPL (Splunk) generada:**
 
 index=* source="*sysmon*" EventCode=1 (
