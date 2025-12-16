@@ -1,4 +1,4 @@
-# 🛡️ Práctica: Instalación y Configuración de Snort como NIDS
+# 🛡️ Práctica: Instalación y Configuración de Snort como NIDS 
 
 **Curso:** DFIR – Digital Forensic and Incident Response  
 **Módulo:** Respuesta ante Incidentes  
