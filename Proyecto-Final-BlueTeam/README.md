@@ -53,7 +53,7 @@ Una de las partes clave del proyecto fue la **creación de reglas de detección 
 *Detectamos un volumen anómalo de solicitudes de tickets TGS asociadas a herramientas como Rubeus.*
 
 **Regla Sigma (YAML):**
-```yaml
+
 title: Detección de Kerberoasting (Rubeus/Invoke-Kerberoast)
 status: experimental
 logsource:
@@ -66,7 +66,7 @@ detection:
             - 'kerberoast'
     condition: selection
 level: high
-´´´
+
 **Consulta SPL (Splunk) generada:**
 
 index=* source="*sysmon*" EventCode=1 (
