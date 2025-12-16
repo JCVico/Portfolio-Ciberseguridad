@@ -67,7 +67,7 @@ detection:
     condition: selection
 level: high
 
-Consulta SPL (Splunk) generada:
+**Consulta SPL (Splunk) generada:**
 
 Fragmento de código
 
