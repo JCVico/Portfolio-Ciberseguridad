@@ -66,3 +66,40 @@ detection:
             - 'kerberoast'
     condition: selection
 level: high
+
+Consulta SPL (Splunk) generada:
+
+Fragmento de código
+
+index=* source="*sysmon*" EventCode=1 (
+    ("rubeus" AND "kerberoast") OR "Invoke-Kerberoast"
+)
+Ejemplo 2: Detección de Persistencia (T1547.001)
+Detectamos el uso de reg add para inyectar binarios en las claves de arranque Run o RunOnce.
+
+Consulta SPL (Splunk) implementada:
+
+Fragmento de código
+
+index=* source="*sysmon*" EventCode=1 Image="*\\reg.exe" 
+(CommandLine="*CurrentVersion\\Run*" OR CommandLine="*CurrentVersion\\RunOnce*") 
+CommandLine="*reg add*"
+🛡️ Bastionado y Cumplimiento Normativo
+Más allá de la detección, propusimos medidas de endurecimiento (Hardening) correlacionadas con normativas oficiales:
+
+Protección contra Phishing: Bloqueo de extensiones peligrosas (.exe, .scr, macros) y despliegue de DMARC/SPF (Control ENS: MP.COM.1).
+
+Mitigación de Kerberoasting: Uso de contraseñas de +25 caracteres para cuentas de servicio y adopción de gMSA (Control ISO 27001: A.9.2.5).
+
+Reducción de Superficie (ASR): Reglas para impedir que Office lance procesos hijos (powershell/cmd).
+
+Control de Acceso: Restricción de NTLM y eliminación de permisos de administrador local (Principio de Mínimo Privilegio).
+
+📂 Documentación Completa del Proyecto
+Este repositorio contiene la documentación detallada con todas las evidencias, logs y procedimientos paso a paso:
+
+📄 Informe Técnico Completo (PDF): Análisis detallado de 40 páginas con evidencias de Sysmon y Splunk.
+
+📊 Presentación Ejecutiva (PDF): Resumen visual de la Kill Chain y resultados.
+
+Este proyecto demuestra la capacidad de traducir amenazas teóricas en defensas prácticas y operativas.
