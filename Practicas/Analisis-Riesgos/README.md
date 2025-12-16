@@ -1,4 +1,4 @@
- # 🛡️ Práctica: Análisis de Riesgos en Empresa Simulada
+ # 🛡️ Práctica: Análisis de Riesgos en Empresa Simulada 
 
 **Curso:** DFIR – Digital Forensic and Incident Response  
 **Tipo de actividad:** Evaluación práctica individual
