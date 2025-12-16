@@ -1,5 +1,5 @@
 
-# 🌐 Práctica: Segmentación de redes con Cisco Packet Tracer
+# 🌐 Práctica: Segmentación de redes con Cisco Packet Tracer 
 
 **Curso:** DFIR – Digital Forensic and Incident Response  
 **Módulo:** II  
