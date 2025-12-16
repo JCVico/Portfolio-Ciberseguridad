@@ -54,7 +54,6 @@ Soy un profesional en transición hacia la ciberseguridad con una sólida base t
 | 🛡️ **Snort IDS** | Configuración de IDS y creación de reglas de detección de intrusos | [Ver Práctica](./Practicas/Snort) |
 | 👁️ **Blue Team Ops** | *(Próximamente)* Laboratorios de detección con Splunk y Sigma | [En construcción...] |
 
-*(Nota: Asegúrate de que los enlaces apuntan correctamente a tus carpetas)*
 
 ---
 
