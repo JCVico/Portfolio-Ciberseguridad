@@ -69,8 +69,6 @@ level: high
 
 **Consulta SPL (Splunk) generada:**
 
-Fragmento de código
-
 index=* source="*sysmon*" EventCode=1 (
     ("rubeus" AND "kerberoast") OR "Invoke-Kerberoast"
 )
