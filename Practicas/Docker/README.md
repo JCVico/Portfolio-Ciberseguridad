@@ -1,4 +1,4 @@
-# 🐳 Práctica: Introducción a Docker
+# 🐳 Práctica: Introducción a Docker 
 
 **Curso:** DFIR – Digital Forensic and Incident Response  
 **Módulo:** I  
