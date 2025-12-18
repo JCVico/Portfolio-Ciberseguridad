@@ -37,9 +37,9 @@ Soy un profesional en transición hacia la ciberseguridad con una sólida base t
 
 | Categoría        | Herramientas y Tecnologías                             |
 |------------------|--------------------------------------------------------|
-| 🛡️ **SOC & SIEM** | **Splunk (SPL)**, Wazuh, Elastic, TheHive              |
+| 🛡️ **SOC & SIEM** | **Splunk (SPL)** y Wazuh              |
 | 🎯 **Detección** | **Reglas Sigma**, MITRE ATT&CK, Atomic Red Team        |
-| 🔍 **Forense** | FTK Imager, Volatility 2/3, Autopsy, KAPE, Wireshark   |
+| 🔍 **Forense** | FTK Imager, Volatility 2/3, Autopsy, Wireshark   |
 | 🖥️ **Sistemas** | Linux (Hardening & CLI), Windows (Sysmon & Event Logs) |
 | 📜 **Scripting** | Bash, PowerShell (Automatización básica)               |
 | 📡 **Redes** | Snort (IDS), TCPDump, Nmap                             |
